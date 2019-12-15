@@ -1,0 +1,26 @@
+{
+  "action": "addLayer",
+  "data": {
+    "id": "population-extrusion",
+    "type": "fill-extrusion",
+    "source": "populations",
+    "paint": {
+      "fill-extrusion-color": {
+        "property": "color",
+        "type": "identity"
+      },  
+      "fill-extrusion-height": {
+        "property": "population_height",
+        "type": "identity"
+      },  
+      "fill-extrusion-opacity": 0.8 
+    }   
+  },
+  "source": {
+    "name": "populations",
+    "data": {
+      "geojson",
+      "data": "https://raw.githubusercontent.com/kozy4324/population_3d_demo/gh-pages/japan_with_populations.geojson"
+    }
+  }
+}
