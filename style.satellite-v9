@@ -1,0 +1,4 @@
+{
+  "action": "setBaseLayer",
+  "style": "mapbox://styles/mapbox/satellite-v9"
+}
