@@ -1,5 +1,3 @@
-// 
-//
 {
   "action": "setBaseLayer",
   "style": "mapbox://styles/mapbox/dark-v10"
