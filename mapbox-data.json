@@ -4,6 +4,7 @@
   {"name": "style.outdoors-v11", "file": "style.outdoors-v11.json"},
   {"name": "style.satellite-v9", "file": "style.satellite-v9.json"},
   {"name": "style.outdoors-v10withoutHillshade", "file": "style.outdoors-v10withoutHillshade.json"},
+  {"name": "地理院", "file": "chiri-in.json"},
   {"name": "3D buildings", "file": "3d-buildings.json"},
   {"name": "Japan population", "file": "japan-population.json"},
   {"name": "terrain-rgb", "file": "terrain-rgb.json"}
