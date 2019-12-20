@@ -1,9 +1,9 @@
 [
   {"name": "3D buildings", "file": "3d-buildings.json"},
   {"name": "Japan population", "file": "japan-population.json"},
-  {"name": "style.dark-v10", "file": "style.dark-v10"},
-  {"name": "style.light-v10", "file": "style.light-v10"},
-  {"name": "style.outdoors-v11", "file": "style.outdoors-v11"},
-  {"name": "style.satellite-v9", "file": "style.satellite-v9"}
-  {"name": "style.outdorrs-v10withoutHillshade", "file": "style.outdorrs-v10withoutHillshade"}
+  {"name": "style.dark-v10", "file": "style.dark-v10.json"},
+  {"name": "style.light-v10", "file": "style.light-v10.json"},
+  {"name": "style.outdoors-v11", "file": "style.outdoors-v11.json"},
+  {"name": "style.satellite-v9", "file": "style.satellite-v9.json"}
+  {"name": "style.outdoors-v10withoutHillshade", "file": "style.outdoors-v10withoutHillshade.json"}
 ]
