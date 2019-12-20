@@ -19,7 +19,7 @@
   "source": {
     "name": "populations",
     "data": {
-      "geojson",
+      "type": "geojson",
       "data": "https://raw.githubusercontent.com/kozy4324/population_3d_demo/gh-pages/japan_with_populations.geojson"
     }
   }
