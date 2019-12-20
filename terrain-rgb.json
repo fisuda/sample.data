@@ -1,0 +1,16 @@
+{
+  "action": "addLayer",
+  "data": {
+    "id": "hillshading",
+    "source": "dem",
+    "type": "hillshade"
+  },
+  "source": {
+    "name": "dem",
+    "data": {
+      "type": "raster-dem",
+      "url": "mapbox://mapbox.terrain-rgb"
+    }
+  },
+  "beforeId": "waterway-river-canal-shadow"
+}
