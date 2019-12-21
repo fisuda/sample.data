@@ -1,0 +1,28 @@
+[
+  {
+    "id": "place001",
+    "fontawesome": "fas fa-building",
+    "tooltip": "place001",
+    "data": {
+      "id": "place001",
+      "type": "PointOfInterest",
+      "name": "Akihabara",
+      "location": {
+        "type": "Point",
+        "coordinates": [
+          139.7729,
+          35.698225
+        ]
+      }
+    },
+    "title": "place001",
+    "infoWindow": "<div><span style=\"font-size:12px;\"><b>id: </b> place001</span><br /><span style=\"font-size:12px;\"><b>type: </b> PointOfInterest</span><br /><span style=\"font-size:12px;\"><b>name: </b> Akihabara</span><br /><span style=\"font-size:12px;\"><b>location: </b> {\n    \"type\": \"Point\",\n    \"coordinates\": [\n        139.7729,\n        35.698225\n    ]\n}</span><br /></div>",
+    "location": {
+      "type": "Point",
+      "coordinates": [
+          139.7729,
+          35.698225
+      ]
+    }
+  }
+]
