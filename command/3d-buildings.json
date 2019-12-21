@@ -1,0 +1,31 @@
+[
+  {"name": "addLayer", "param":
+    {   
+      "data": {
+        "id": "3d-buildings",
+        "source": "composite",
+        "source-layer": "building",
+        "filter": ["==", "extrude", "true"],
+        "type": "fill-extrusion",
+        "minzoom": 10, 
+        "paint": {
+          "fill-extrusion-color": "#3d4250",
+          "fill-extrusion-height": [
+          "interpolate", ["linear"], ["zoom"],
+            10, 0,
+            14.05, ["get", "height"]
+          ],  
+          "fill-extrusion-base": [
+            "interpolate", ["linear"], ["zoom"],
+            10, 0,
+            14.05, ["get", "min_height"]
+          ],  
+          "fill-extrusion-opacity": 1.0 
+        }   
+      }   
+    }   
+  },  
+  {"name": "setCenter", "param": [139.75, 35.65]},
+  {"name": "setZoom", "param": 16},
+  {"name": "rotateCamera", "param": 0}
+]

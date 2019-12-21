@@ -1,0 +1,5 @@
+[
+  {"name": "3D buildings", "file": "3d-buildings.json"},
+  {"name": "rotateCamera", "file": "rotateCamera.json"},
+  {"name": "setZoom", "file": "setZoom.json"}
+]
