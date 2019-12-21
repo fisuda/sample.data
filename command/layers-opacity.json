@@ -1,0 +1,37 @@
+[
+  {
+    "name": "setBaseLayer",
+    "param": {
+      "style": "mapbox://styles/mapbox/light-v10"
+    }
+  },
+  {
+    "name": "setCenter",
+    "param": [-87.6321, 41.8362]
+  },
+  {
+    "name": "setZoom",
+    "param": 9.5
+  },
+  {
+    "name": "addLayer",
+    "param": {
+      "data":{
+        "id": "chicago",
+        "source": {
+          "type": "raster",
+          "url": "mapbox://mapbox.u8yyzaor"
+        },
+        "type": "raster"
+      }
+    }
+  },
+  {
+    "name": "setPaintProperty",
+    "param": {
+      "LayerId": "chicago",
+      "name": "raster-opacity",
+      "value": 0.6
+    }
+  }
+]
