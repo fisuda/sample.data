@@ -1,21 +1,21 @@
 [
   {
-    "name": "setBaseLayer",
-    "param": {
+    "type": "setBaseLayer",
+    "value": {
       "style": "mapbox://styles/mapbox/light-v10"
     }
   },
   {
-    "name": "setCenter",
-    "param": [-87.6321, 41.8362]
+    "type": "setCenter",
+    "value": [-87.6321, 41.8362]
   },
   {
-    "name": "setZoom",
-    "param": 9.5
+    "type": "setZoom",
+    "value": 9.5
   },
   {
-    "name": "addLayer",
-    "param": {
+    "type": "addLayer",
+    "value": {
       "data":{
         "id": "chicago",
         "source": {
@@ -27,10 +27,10 @@
     }
   },
   {
-    "name": "setPaintProperty",
-    "param": {
+    "type": "setPaintProperty",
+    "value": {
       "LayerId": "chicago",
-      "name": "raster-opacity",
+      "type": "raster-opacity",
       "value": 0.6
     }
   }

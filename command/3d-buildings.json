@@ -1,5 +1,5 @@
 [
-  {"name": "addLayer", "param":
+  {"type": "addLayer", "value":
     {   
       "data": {
         "id": "3d-buildings",
@@ -25,7 +25,7 @@
       }   
     }   
   },  
-  {"name": "setCenter", "param": [139.75, 35.65]},
-  {"name": "setZoom", "param": 16},
-  {"name": "rotateCamera", "param": 0}
+  {"type": "setCenter", "value": [139.75, 35.65]},
+  {"type": "setZoom", "value": 16},
+  {"type": "rotateCamera", "value": 0}
 ]
