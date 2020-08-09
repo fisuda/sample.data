@@ -3,5 +3,5 @@
   {"name": "rotateCamera", "file": "rotateCamera.json"},
   {"name": "setZoom", "file": "setZoom.json"},
   {"name": "layers-opacity", "file": "layers-opacity.json"},
-  {"name": "panTo", "file": "panTo.json"}
+  {"name": "panTo ", "file": "panTo.json"}
 ]
